@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "icon.png"
-hash = "9470879894d4c8ad4109cf749f6aedc2a28cb222789cf627564270b2b3fe6d75"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -51,10 +47,6 @@ hash = "790e31c2a19194b81ca0dc134694a5b9f935c5c19c50aadcfb4f90a613c19bff"
 [[files]]
 file = "mods/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
 hash = "8498696a6fe4e23a73eec28c3185155dafdb94c079b7ef0fe343bda4bbbe0ce1"
-
-[[files]]
-file = "mods/YungsBridges-1.20-Fabric-4.0.3.jar"
-hash = "9a4548727fd22fd06efa5a70b4bda0231249be107aa5b91acc615981d558ebb0"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -109,11 +101,6 @@ metafile = true
 [[files]]
 file = "mods/betternether.pw.toml"
 hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
-metafile = true
-
-[[files]]
-file = "mods/blast.pw.toml"
-hash = "5b0b9fe0f72ec9a93ea6473432c6961091ff1d4eef13e87f08a2b65a98bbe2bc"
 metafile = true
 
 [[files]]
@@ -300,11 +287,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
-metafile = true
-
-[[files]]
-file = "mods/iceberg-fabric.pw.toml"
-hash = "2ff9b2894dd43471b0f2d1779adcc15150e87c08e1ac9501635a04b975ae7c5c"
 metafile = true
 
 [[files]]
@@ -708,11 +690,6 @@ hash = "cba441f39b87df3e479f870998ecadaa833e847ec91932384def56f02b32362a"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-desert-temples-fabric.pw.toml"
-hash = "129c4bbfa9c25574433eee4205ad3136d91027af612ff850a941d634d4051f62"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-dungeons-fabric.pw.toml"
 hash = "5563f135632355c7b180c1f93087f6789863e3d605ee3149ba9075fdc917f9bd"
 metafile = true
@@ -751,14 +728,6 @@ metafile = true
 file = "mods/yungs-extras-fabric.pw.toml"
 hash = "c61d03ecba29f1d678c110b37010eabeb207006c7d00966b379b92edbd69f773"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "e9435dc42eaef8847619c9fe6901a75f646f5bbd7b9f48b82b092c4862da5bb4"
-
-[[files]]
-file = "patchouli_books/project_skyhigh_guide/book.json"
-hash = "798a2ea29c73974598ff25688abedc7188567b0939eeb6ffb5961a1106849044"
 
 [[files]]
 file = "resourcepacks/Project_Sky_high/assets/computercraft/blockstates/wireless_modem_advanced.json"
