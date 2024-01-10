@@ -122,11 +122,6 @@ hash = "415e964b7e8d65192cd594809f6e95c85b2772ede860585e6499ed441086e11f"
 metafile = true
 
 [[files]]
-file = "mods/create-deco-fabric.pw.toml"
-hash = "b2a5a33a6f778f8e96ce3e31deae416cdc63446caa21fad1a88128309b2121be"
-metafile = true
-
-[[files]]
 file = "mods/create-sodium-fix-0.5.1-d-build.5+mc1.20.1.jar"
 hash = "ad124b2223417d2b06379815d00e6700afc7dd024387cd9b3c82f8fb3150083e"
 
