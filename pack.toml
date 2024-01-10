@@ -1,0 +1,13 @@
+name = "Test"
+author = "NLKoen"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fa7a6261f3737be1305cfea228a91bf15475a29929390a6cad60515f5e2d1865"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.23.0"

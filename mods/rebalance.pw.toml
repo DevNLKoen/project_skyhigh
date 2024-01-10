@@ -1,0 +1,13 @@
+name = "ReBalance"
+filename = "ReBalance-FABRIC-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "637f342ba7877df77a37d53866b4ebfb25f841a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4934704
+project-id = 940586

@@ -1,0 +1,13 @@
+name = "Creeper Spores"
+filename = "creeper-spores-1.13.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b149ef5956cb5b6aa7cc12cdef587834945be18"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4816834
+project-id = 331636

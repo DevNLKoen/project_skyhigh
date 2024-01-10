@@ -1,0 +1,13 @@
+name = "Simple Snowy Fix"
+filename = "simple-snowy-fix-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86481a5d0081b52fe68b0982b2de1a5d78df601d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4838753
+project-id = 933027
