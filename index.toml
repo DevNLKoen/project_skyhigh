@@ -9,6 +9,10 @@ file = "mods/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar"
 hash = "790e31c2a19194b81ca0dc134694a5b9f935c5c19c50aadcfb4f90a613c19bff"
 
 [[files]]
+file = "mods/YungsBetterDungeons-1.20-Fabric-4.0.3.jar"
+hash = "c4166621e809d7468a9b21f11630e03279864a949b9c88ee4546a91c4137cbb5"
+
+[[files]]
 file = "mods/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
 hash = "8498696a6fe4e23a73eec28c3185155dafdb94c079b7ef0fe343bda4bbbe0ce1"
 
@@ -122,6 +126,11 @@ hash = "415e964b7e8d65192cd594809f6e95c85b2772ede860585e6499ed441086e11f"
 metafile = true
 
 [[files]]
+file = "mods/create-deco-fabric.pw.toml"
+hash = "b2a5a33a6f778f8e96ce3e31deae416cdc63446caa21fad1a88128309b2121be"
+metafile = true
+
+[[files]]
 file = "mods/create-sodium-fix-0.5.1-d-build.5+mc1.20.1.jar"
 hash = "ad124b2223417d2b06379815d00e6700afc7dd024387cd9b3c82f8fb3150083e"
 
@@ -129,6 +138,10 @@ hash = "ad124b2223417d2b06379815d00e6700afc7dd024387cd9b3c82f8fb3150083e"
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "881cb559a7c2f0624484cba4c3d2363b03cb8faa08469b754d732f5599529583"
 metafile = true
+
+[[files]]
+file = "mods/create-structures-0.1.1-1.20.1-FABRIC.jar"
+hash = "3167a3a00232e115eab4afdab277e2d0c4d29c8bf68c77b57b5328cccb9db4f6"
 
 [[files]]
 file = "mods/create-track-map-1.4+mc1.20.1-fabric.jar"
@@ -211,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "af95bd36270e7fdb34f3385e413ff6d85f451f4eab9b1e137f379e8aceab4918"
+hash = "ff360ba97565b8efba9387e2b9a267937634568a8d56c39ae8711701ab499c3d"
 metafile = true
 
 [[files]]
@@ -347,7 +360,7 @@ hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "977000e0393338e5a8bbfa366ef6e5a3bb47abd0cb57f8a3afb550fcbfaef890"
+hash = "253e044a59857fbeb2b7aab489281bf57d54173f0c74030306fad2e73b21ad3e"
 metafile = true
 
 [[files]]
@@ -498,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "f06ea08188cac35bf83b04e53e147575077584be32baa7865b7ea56363cb732d"
+hash = "b3689d057e78277428013eaf33c9fc1cc8c6fab431ab802ef8806e11cb9d878d"
 metafile = true
 
 [[files]]
@@ -576,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5830b32e4cf7ed724568b6f74738fe7170ad051b24f1ca8c62af6cd17bfea524"
+hash = "4629fd43a7cffed172fcb43bfba720e4b4acc34df5a02e350d285e2148be1852"
 metafile = true
 
 [[files]]
@@ -646,6 +659,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api-fabric.pw.toml"
 hash = "cba441f39b87df3e479f870998ecadaa833e847ec91932384def56f02b32362a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples-fabric.pw.toml"
+hash = "129c4bbfa9c25574433eee4205ad3136d91027af612ff850a941d634d4051f62"
 metafile = true
 
 [[files]]
