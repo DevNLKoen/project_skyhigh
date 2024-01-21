@@ -1,0 +1,13 @@
+name = "MC-Discord-Chat"
+filename = "MC-Discord-Chat-2.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb1e097f918c73ffe8f565dd1d6a2c3414c124c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5043469
+project-id = 548539

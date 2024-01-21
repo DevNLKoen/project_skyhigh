@@ -1,0 +1,13 @@
+name = "LevelZ"
+filename = "levelz-1.4.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2d95d9eb76a94d67e021795d84e311435b9a8ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5024636
+project-id = 517130
