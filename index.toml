@@ -357,10 +357,6 @@ hash = "c5181734a4eb89c88128c08eb38a77ebe1de3639d8de653f9304b70378a7ba16"
 metafile = true
 
 [[files]]
-file = "mods/jobsaddon-1.1.6.jar.disabled"
-hash = "419c21ee949ea69577398fefde6209157d57b6567ae75a6bc7055306f74aa9c4"
-
-[[files]]
 file = "mods/konkrete-fabric.pw.toml"
 hash = "c231d4b9b466397da607196b45f3284b0398c6af2b06cf66b90fa611f4cca69a"
 metafile = true
@@ -388,11 +384,6 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
 hash = "fbf42000436043febfb036d41cf60a0137fb46705c9f259a905a2f1c88381f90"
-metafile = true
-
-[[files]]
-file = "mods/levelz.pw.toml"
-hash = "46da76d650af422233ae0a20187b8acb2b1565afa014e22c833c61e5d736b721"
 metafile = true
 
 [[files]]
