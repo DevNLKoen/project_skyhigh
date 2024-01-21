@@ -754,10 +754,6 @@ hash = "2d3583018b07595c2af66d006b04e408ae324a6a85adef5c454fd4507df0e195"
 metafile = true
 
 [[files]]
-file = "patchouli_books/project_skyhigh_guide/book.json"
-hash = "798a2ea29c73974598ff25688abedc7188567b0939eeb6ffb5961a1106849044"
-
-[[files]]
 file = "resourcepacks/Project_Sky_high/assets/computercraft/blockstates/wireless_modem_advanced.json"
 hash = "0a38a3d2e7349266be2c5f8e08c8ae55bdbf5e4388d82406d5d3468380948154"
 
