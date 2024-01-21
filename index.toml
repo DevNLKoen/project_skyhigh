@@ -332,10 +332,6 @@ file = "mods/libz-1.0.3.jar"
 hash = "f0ec229eef13399e4439b60149d6b8e98ce985d6463965920e9944151d2b620a"
 
 [[files]]
-file = "mods/lilylib-0.1.0-beta.2.jar"
-hash = "1221c4b7b2fc99b744057137ce3c6c01ec496d0405b2df91fd4b912c39ac7789"
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
 metafile = true
