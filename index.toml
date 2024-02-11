@@ -917,10 +917,6 @@ file = "mods/TerraBlender-fabric-1.20.1-3.0.1.4.jar"
 hash = "8c7e7d21fdc63d2457a207db5c553cda3346ad9046b3e5755bbf9317566532f1"
 
 [[files]]
-file = "mods/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
-hash = "8498696a6fe4e23a73eec28c3185155dafdb94c079b7ef0fe343bda4bbbe0ce1"
-
-[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "e13decd7dfb68cd726f14550d9e970e93b14ffd280eca11c9e9b175b2511814c"
 metafile = true
@@ -1100,11 +1096,6 @@ hash = "baa9bc91c718d9860016882ed20ccecc9758a682fe646830f2309a28d0116794"
 [[files]]
 file = "mods/ctov-wizards-compat-2.0a.jar"
 hash = "da010337deba2c9bb12df161801c8644c9c8bd3196c5537cbcca500ed49a9e3a"
-
-[[files]]
-file = "mods/discord-mc-chat.pw.toml"
-hash = "95073230f7525433b2ec0c63acdeaec52efab8accf23a3952473dfe7bd2c1733"
-metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -1420,10 +1411,6 @@ hash = "5c06045ac59f10bb70c9eda5d47d4fab87b19dab1ae93d2eee2940cb47ec25cf"
 metafile = true
 
 [[files]]
-file = "mods/rules-2.0.0+1.20.jar"
-hash = "012357994eddbc47759cbeb0af3f12be7d950d5b7db8db31216adfe1816e144e"
-
-[[files]]
 file = "mods/rune-crafting.pw.toml"
 hash = "47811f1ce283a8f1ed4bffef4d64881a497e709cf1e7b76f908fb43b73f80f8c"
 metafile = true
@@ -1444,10 +1431,6 @@ hash = "a101f47e44eeb796ca5edeadae3cbba11a95c604fd85754bfa868b7a48f5f0e8"
 metafile = true
 
 [[files]]
-file = "mods/simpleframes-1.2.0.jar"
-hash = "8a1a051221ee6dc22d7add697e93eca2b8bdf4b2902af0de18df6f5de39f351e"
-
-[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "0e74a6ff49b5b150ebb3d671ce32682479632664b85457954cb20b0e9bc8bcb9"
 metafile = true
@@ -1456,10 +1439,6 @@ metafile = true
 file = "mods/slice-and-dice.pw.toml"
 hash = "c1a175b801fa1d94f6b557cb8b70c9f55841f31e3009a8507b95324e32716de8"
 metafile = true
-
-[[files]]
-file = "mods/slumber-1.1.3.jar"
-hash = "92b121d31f540c48e55c24c8c257fb11c01fb34e27081f2e092b2668115fb061"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
@@ -1502,36 +1481,9 @@ hash = "7e7fb324ca663d3ff128f62d9b424e7f799edb4535d94d15a3a5f64080b81653"
 metafile = true
 
 [[files]]
-file = "mods/styled-chat.pw.toml"
-hash = "440d9eb8db00ed2daf35b8fecd1874c48c514bf85529852a4d2ef70f4ca1a952"
-metafile = true
-
-[[files]]
-file = "mods/styled-nicknames.pw.toml"
-hash = "1c33c0b5784daab00580964a59ea0062da9aae7b626dc396f8ae13b08f50bf8c"
-metafile = true
-
-[[files]]
-file = "mods/styled-player-list.pw.toml"
-hash = "93cf1fc28d62de1afd142ab6b85359923a8c0d9c6b16ec4322308fa49e8ab153"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "637afe921ca0f870420a62e16cddd968697d64ff36fd357c9170b27a497824ce"
 metafile = true
-
-[[files]]
-file = "mods/switchy-2.9.1+1.20.jar"
-hash = "e192eef81bafa62379bc92e489e33eb2c2d879087b8b5be021f01f170d36fa7d"
-
-[[files]]
-file = "mods/switchy-inventories-1.8.2+1.19.jar"
-hash = "af20d35e54e3f7cf740ec349c971f9679f1d80979a4d58cf48ba0ab2a30da095"
-
-[[files]]
-file = "mods/switchy-teleport-1.2.5+1.20.jar"
-hash = "e8fa0091cf12b370f8042a9bc4cba3bd0da4213bdbb42d1a5a0c0cf1d39bb088"
 
 [[files]]
 file = "mods/templates-2.1.1+1.20.1.jar"
