@@ -85,6 +85,10 @@ file = "config/puffish_skills/config.json"
 hash = "a8366b9a4c451d61160742d16812cf1f366a74369910cd889e5e9524fc814af1"
 
 [[files]]
+file = "mods/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
+hash = "8498696a6fe4e23a73eec28c3185155dafdb94c079b7ef0fe343bda4bbbe0ce1"
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "e13decd7dfb68cd726f14550d9e970e93b14ffd280eca11c9e9b175b2511814c"
 metafile = true
@@ -189,6 +193,10 @@ hash = "881cb559a7c2f0624484cba4c3d2363b03cb8faa08469b754d732f5599529583"
 metafile = true
 
 [[files]]
+file = "mods/create-structures-0.1.1-1.20.1-FABRIC.jar"
+hash = "3167a3a00232e115eab4afdab277e2d0c4d29c8bf68c77b57b5328cccb9db4f6"
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "f7d89fc165dea517c959a03f8477a9ce81a37508f062f450b4e29bdcef73204f"
 metafile = true
@@ -210,6 +218,11 @@ hash = "8507b921b10372feb72edcbb74cab55af31ed42aa3c57ce3750de8341e3aa1fe"
 [[files]]
 file = "mods/croptopia.pw.toml"
 hash = "0bcd1969e90045a3e33769b574182f71a1a80a9f13140eb20558799b7d0782e6"
+metafile = true
+
+[[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "95073230f7525433b2ec0c63acdeaec52efab8accf23a3952473dfe7bd2c1733"
 metafile = true
 
 [[files]]
@@ -245,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "ff360ba97565b8efba9387e2b9a267937634568a8d56c39ae8711701ab499c3d"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "5d7b4991c301b2b31302053cbac3eb281a1d167d99dab7bf63b98f46989433a3"
 metafile = true
 
 [[files]]
@@ -468,6 +486,10 @@ hash = "297fa1e8d45f324b6e7bb8154bfa604402c2f275d6e4294e465e398c060fcde2"
 metafile = true
 
 [[files]]
+file = "mods/rules-2.0.0+1.20.jar"
+hash = "012357994eddbc47759cbeb0af3f12be7d950d5b7db8db31216adfe1816e144e"
+
+[[files]]
 file = "mods/rune-crafting.pw.toml"
 hash = "47811f1ce283a8f1ed4bffef4d64881a497e709cf1e7b76f908fb43b73f80f8c"
 metafile = true
@@ -488,6 +510,10 @@ hash = "a101f47e44eeb796ca5edeadae3cbba11a95c604fd85754bfa868b7a48f5f0e8"
 metafile = true
 
 [[files]]
+file = "mods/simpleframes-1.2.0.jar"
+hash = "8a1a051221ee6dc22d7add697e93eca2b8bdf4b2902af0de18df6f5de39f351e"
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "ed86dc10fc8daa5c79309678874cd8100a6587cfe7366fe0552381d1fd7d5acc"
 metafile = true
@@ -496,6 +522,10 @@ metafile = true
 file = "mods/slice-and-dice.pw.toml"
 hash = "c1a175b801fa1d94f6b557cb8b70c9f55841f31e3009a8507b95324e32716de8"
 metafile = true
+
+[[files]]
+file = "mods/slumber-1.1.3.jar"
+hash = "92b121d31f540c48e55c24c8c257fb11c01fb34e27081f2e092b2668115fb061"
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
@@ -532,9 +562,36 @@ hash = "7e7fb324ca663d3ff128f62d9b424e7f799edb4535d94d15a3a5f64080b81653"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "440d9eb8db00ed2daf35b8fecd1874c48c514bf85529852a4d2ef70f4ca1a952"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "1c33c0b5784daab00580964a59ea0062da9aae7b626dc396f8ae13b08f50bf8c"
+metafile = true
+
+[[files]]
+file = "mods/styled-player-list.pw.toml"
+hash = "93cf1fc28d62de1afd142ab6b85359923a8c0d9c6b16ec4322308fa49e8ab153"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a2e7cd0a295c4ef0cb592594b8cb113c39d6453c3699023b2ed2dd56f91b28f2"
 metafile = true
+
+[[files]]
+file = "mods/switchy-2.9.1+1.20.jar"
+hash = "e192eef81bafa62379bc92e489e33eb2c2d879087b8b5be021f01f170d36fa7d"
+
+[[files]]
+file = "mods/switchy-inventories-1.8.2+1.19.jar"
+hash = "af20d35e54e3f7cf740ec349c971f9679f1d80979a4d58cf48ba0ab2a30da095"
+
+[[files]]
+file = "mods/switchy-teleport-1.2.5+1.20.jar"
+hash = "e8fa0091cf12b370f8042a9bc4cba3bd0da4213bdbb42d1a5a0c0cf1d39bb088"
 
 [[files]]
 file = "mods/tieredz.pw.toml"
@@ -564,6 +621,56 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "74aca3c4c496d4b5f955eedc6bda1d35cda98fd70713d39bb05ef00d8eea724b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.pw.toml"
+hash = "061427ce30a64c6ef7674df1e7df14e514af0427e983d320c7b2402e233f8d88"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples-fabric.pw.toml"
+hash = "129c4bbfa9c25574433eee4205ad3136d91027af612ff850a941d634d4051f62"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-fabric.pw.toml"
+hash = "5563f135632355c7b180c1f93087f6789863e3d605ee3149ba9075fdc917f9bd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples-fabric.pw.toml"
+hash = "ef6c989521fc38807fcbf8bccc204c0f01f2f071387c2690bdce50e77ed370a3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-fabric.pw.toml"
+hash = "4b051a6f31f33f629199e2033a5773fa25e24fcdaebf250c96f95a96f629b758"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses-fabric.pw.toml"
+hash = "ebd74394feb9dd154a0ee710bddffdb5e80e18279e001d3c21ee21728364aa31"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
+hash = "42b17d95baef2a67c36a91d3cbdef1a7a0858852792a8fd9b67b1c5ca6960658"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts-fabric.pw.toml"
+hash = "48cd5e6fc8bc8951f0e33e21d49d4c59dcbae57134e6c7425371ae566aaf6de7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges-fabric.pw.toml"
+hash = "4147ca397d51f92d2aa93d07d4fc24bd09774724088072baf73f5f39aec074f1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras-fabric.pw.toml"
+hash = "c61d03ecba29f1d678c110b37010eabeb207006c7d00966b379b92edbd69f773"
 metafile = true
 
 [[files]]
