@@ -1,0 +1,13 @@
+name = "Project SkyHigh"
+author = "NLKoen"
+version = "0.0.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cd659516b52d6137a44b8cfe57a54811cc077c2ca3f2a16b406188b1b2f1d93d"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.23.1"

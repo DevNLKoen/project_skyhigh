@@ -1,0 +1,97 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				pig = true
+				item = true
+				tnt_minecart = true
+				wolf = true
+				cow = true
+				fox = true
+				sheep = true
+				bat = true
+				glow_squid = true
+				squid = true
+				axolotl = true
+				drowned = true
+				tropical_fish = true
+				zombie = true
+				spider = true
+				skeleton = true
+				chicken = true
+				cave_spider = true
+				creeper = true
+				zombie_villager = true
+				enderman = true
+				witch = true
+				salmon = true
+				bee = true
+				donkey = true
+				pillager = true
+				experience_orb = true
+				husk = true
+				horse = true
+				slime = true
+				turtle = true
+				arrow = true
+				cod = true
+				rabbit = true
+				villager = true
+				iron_golem = true
+				cat = true
+				dolphin = true
+				pufferfish = true
+				llama = true
+				egg = true
+				fishing_bobber = true
+				zombified_piglin = true
+				piglin = true
+				strider = true
+				hoglin = true
+				piglin_brute = true
+				ghast = true
+				fireball = true
+				magma_cube = true
+				boat = true
+				lightning_bolt = true
+				item_frame = true
+				stray = true
+
+			[light_sources.settings.entities.levelz]
+				level_experience_orb = true
+
+			[light_sources.settings.entities.spellbladenext]
+				cycloneentity = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+				super_glue = true
+
+			[light_sources.settings.entities.automobility]
+				automobile = true
+
+			[light_sources.settings.entities.dummmmmmy]
+				target_dummy = true
+

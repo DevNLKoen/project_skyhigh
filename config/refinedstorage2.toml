@@ -1,0 +1,75 @@
+[grid]
+largeFont = false
+energyUsage = 10
+maxRowsStretch = 256
+preventSortingWhileShiftIsDown = true
+detailedTooltip = true
+rememberSearchQuery = false
+smoothScrolling = true
+autoSelected = false
+synchronizer = ""
+storageChannelType = ""
+sortingDirection = "ASCENDING"
+sortingType = "QUANTITY"
+size = "STRETCH"
+[craftingGrid]
+energyUsage = 14
+craftingMatrixCloseBehavior = "NONE"
+[controller]
+energyCapacity = 1000
+[diskDrive]
+energyUsage = 10
+energyUsagePerDisk = 4
+[cable]
+energyUsage = 0
+[storageBlock]
+oneKEnergyUsage = 2
+fourKEnergyUsage = 4
+sixteenKEnergyUsage = 6
+sixtyFourKEnergyUsage = 8
+creativeEnergyUsage = 16
+[fluidStorageBlock]
+sixtyFourBEnergyUsage = 2
+twoHundredFiftySixBEnergyUsage = 4
+thousandTwentyFourBEnergyUsage = 6
+fourThousandNinetySixBEnergyUsage = 8
+creativeEnergyUsage = 16
+[importer]
+energyUsage = 2
+[exporter]
+energyUsage = 2
+[upgrade]
+speedUpgradeEnergyUsage = 4
+stackUpgradeEnergyUsage = 16
+fortune1UpgradeEnergyUsage = 10
+fortune2UpgradeEnergyUsage = 12
+fortune3UpgradeEnergyUsage = 14
+silkTouchUpgradeEnergyUsage = 16
+regulatorUpgradeEnergyUsage = 16
+rangeUpgradeEnergyUsage = 8
+creativeRangeUpgradeEnergyUsage = 0
+rangeUpgradeRange = 8
+[iface]
+energyUsage = 4
+[externalStorage]
+energyUsage = 6
+[detector]
+energyUsage = 2
+[destructor]
+energyUsage = 3
+[constructor]
+energyUsage = 3
+[wirelessGrid]
+energyCapacity = 1000
+openEnergyUsage = 5
+insertEnergyUsage = 5
+extractEnergyUsage = 5
+[wirelessTransmitter]
+energyUsage = 16
+baseRange = 16
+[storageMonitor]
+energyUsage = 4
+[networkReceiver]
+energyUsage = 8
+[networkTransmitter]
+energyUsage = 32
