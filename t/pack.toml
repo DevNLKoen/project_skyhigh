@@ -1,6 +1,6 @@
-name = "Project_skyhigh"
+name = "Test"
 author = "NLKoen"
-version = "0.0.4"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
