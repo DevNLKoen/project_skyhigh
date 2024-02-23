@@ -1,0 +1,13 @@
+name = "Reabsorption (Energy Shield)"
+filename = "reabsorption-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ee1a54cec158c84906b15f11da1b87c6f3a4322"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4890864
+project-id = 941480

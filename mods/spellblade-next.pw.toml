@@ -1,13 +1,13 @@
 name = "Spellblades and Such (Spell Engine)"
-filename = "spellbladenext-1.7.1.jar"
+filename = "spellbladenext-1.7.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7271e237c677bb7c1f4d48f08d66b310439c5c51"
+hash = "29d1b34b1c1d20fc956ca9d2e4c9e473b082bd25"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5088696
+file-id = 5105099
 project-id = 811662

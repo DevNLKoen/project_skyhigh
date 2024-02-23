@@ -1,0 +1,13 @@
+name = "Tierify"
+filename = "Tierify-FABRIC-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1adb20c7b79f826c01ccd41c1ee4ffe3c7fb14f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5111351
+project-id = 974356
