@@ -153,6 +153,10 @@ file = "kubejs/startup_scripts/items.js"
 hash = "f7e3e5796fba7de19a3998d0a4ead7f2c795627dd8182c7bef1cec0eb090e967"
 
 [[files]]
+file = "mods/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar"
+hash = "91e685925fff2fcaa51a73202a6edc9d2435f76552a8d97af88942c37643fd86"
+
+[[files]]
 file = "mods/RevJS-2001fabric-1.1.0.jar"
 hash = "5a075939ef587d5e696ef76ec28424b00fc35041bb18b938bf4174cf83634543"
 
@@ -453,11 +457,6 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "dbf6eb9a442b213564aabd9a7e16f3b23219087e07e4627cdee3df4f29bb69c5"
-metafile = true
-
-[[files]]
-file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
 metafile = true
 
 [[files]]
