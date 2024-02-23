@@ -865,11 +865,6 @@ hash = "19da0aa4007bd1ca94537bf80335fe88a87473e34af7b75bafb2e647d0d40562"
 metafile = true
 
 [[files]]
-file = "mods/tieredz.pw.toml"
-hash = "b5d857ce533e1709147e1c0a22a49ba8aa8627e2356b5f9e63a3c56c8b5e1872"
-metafile = true
-
-[[files]]
 file = "mods/tierify.pw.toml"
 hash = "96ea19d3a88cda4685efc8ac4bade8742267095cce5553bb4c1cbcb2f84c2c62"
 metafile = true
