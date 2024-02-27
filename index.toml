@@ -105,46 +105,6 @@ file = "config/supplementaries-common.json"
 hash = "b7992a9be371237f9bbc49ab3068f7c2341321944395aa47a535bb9837a91249"
 
 [[files]]
-file = "kubejs/README.txt"
-hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-
-[[files]]
-file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "kubejs/assets/skyhigh/textures/item/incomplete_refined_mechanism.png"
-hash = "66950ca352dba9e7c49e04436d4b4096cbba4b48c76b3737a717ad904cac186f"
-
-[[files]]
-file = "kubejs/assets/skyhigh/textures/item/refined_mechanism.png"
-hash = "627e8765d00b2ca0817955271aa7c30c59d08dd8dd5a804b3b3593094ad1f354"
-
-[[files]]
-file = "kubejs/client_scripts/example.js"
-hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
-
-[[files]]
-file = "kubejs/config/client.properties"
-hash = "727bb2c05545aae85af6c4ae23ad0ac8bef8c14cab6910b70ba24208f2900d7c"
-
-[[files]]
-file = "kubejs/config/common.properties"
-hash = "9f12c1a66ccbb4574da71b1a4ced4cdd89e40ff0463fa27102ef1381a088d06f"
-
-[[files]]
-file = "kubejs/server_scripts/refinedstorage.js"
-hash = "1d6d57d40ee6b148c2f9d6fdaf73157ee4a2f76a6ac25c2c8ee4846b1a511f08"
-
-[[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
